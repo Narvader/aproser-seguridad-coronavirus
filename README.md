@@ -4,7 +4,7 @@
 
 Title: Seguridad privada, indispensables frente al Covid-19
 
-This project is about the presentation of a new Mazda's car in Madrid. It is developed with both Hugo and AMP frameworks and was designed by Irene de Pablo
+This project is about the effort made the security company during the Covid-19 in Spain. It is developed in HTML, CSS ans Js and was designed by Irene de Pablo.
 
 ## Link
 
