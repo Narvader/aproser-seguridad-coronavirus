@@ -1,5 +1,5 @@
 {
-  "name": "De-Gas-Natural-a-Fenosa-a-Naturgy",
+  "name": "Seguridad privada, indispensable frente al Covid-19",
   "version": "1.0.0",
   "private": true,
   "description": "Understanding webpack",
@@ -28,6 +28,7 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
-    "css-loader": "^3.5.3"
+    "css-loader": "^3.5.3",
+    "node-forge": "^0.10.0"
   }
 }
